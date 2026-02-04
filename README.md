@@ -93,6 +93,8 @@ The handwritten requirement is intentional—to promote careful reading, reflect
    - Questions are always better than assumptions.
 
 ---
+## Additional Note:
+ - Add a title for your paper-review.
 
 ## Submission
 
