@@ -107,7 +107,7 @@ Late submissions or submissions that do not follow the required format may not b
 Read actively. Think critically. Write honestly.
 
 
-#### NOTE: Add titles to your papert-review.
+#### NOTE: Add titles to your paper-review.
 
 
 
